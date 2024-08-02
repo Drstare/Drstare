@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Drstare
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Physics, Python and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @jair.fvr17
 
 <!---
